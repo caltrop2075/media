@@ -1,5 +1,8 @@
 # media
-media management
+
+used for maintaining flash media
+
+drive list stored in flash.dat, can be used elsewhere
 
 media.sh
 --------------------------------------------------------------------------------
